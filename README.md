@@ -1,1 +1,1 @@
-Basic Login Screen, with HTML and CSS.
+Basic HTML and CSS Screen
